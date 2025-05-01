@@ -12,4 +12,3 @@ public class Operadores2 {
     }
 }
 
-operações 4
