@@ -1,4 +1,4 @@
-public class TiposVariaveis {
+public class TiposeVariaveis40 {
     public static void main(String[] args) throws Exception {
         double salarioMinimo = 2500;
 
@@ -12,8 +12,5 @@ public class TiposVariaveis {
 
         System.out.print(numero);
 
-        final double VALOR_DE_PI = 3,14;
-
-        VALOR_DE_PI = 10,75;
     }
 }
