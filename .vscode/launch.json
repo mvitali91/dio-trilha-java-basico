@@ -1,0 +1,381 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    {
+        "type": "java",
+        "name": "Launch Java Program",
+        "request": "launch",
+        "mainClass": "TerminaldeArgumentos40"
+        "args": [
+            "MAURICIO",
+            "VITALI",
+            "33",
+            "1,81"
+    ]
+    },
+        {
+            "type": "java",
+            "name": "Attach",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of the debuggee>"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiadasClasses10",
+            "request": "launch",
+            "mainClass": "AnatomiadasClasses10",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiadasClasses20",
+            "request": "launch",
+            "mainClass": "AnatomiadasClasses20",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiadasClasses30",
+            "request": "launch",
+            "mainClass": "AnatomiadasClasses30",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiadasClasses31",
+            "request": "launch",
+            "mainClass": "AnatomiadasClasses31",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiadasClasses40",
+            "request": "launch",
+            "mainClass": "AnatomiadasClasses40",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiadasClasses41",
+            "request": "launch",
+            "mainClass": "AnatomiadasClasses41",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiadasClasses42",
+            "request": "launch",
+            "mainClass": "AnatomiadasClasses42",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Métodos31",
+            "request": "launch",
+            "mainClass": "Métodos31",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Métodos32",
+            "request": "launch",
+            "mainClass": "Métodos32",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Métodos33",
+            "request": "launch",
+            "mainClass": "Métodos33",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Métodos34",
+            "request": "launch",
+            "mainClass": "Métodos34",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Métodos35",
+            "request": "launch",
+            "mainClass": "Métodos35",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores20",
+            "request": "launch",
+            "mainClass": "Operadores20",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores21",
+            "request": "launch",
+            "mainClass": "Operadores21",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores30",
+            "request": "launch",
+            "mainClass": "Operadores30",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores31",
+            "request": "launch",
+            "mainClass": "Operadores31",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores32",
+            "request": "launch",
+            "mainClass": "Operadores32",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores33",
+            "request": "launch",
+            "mainClass": "Operadores33",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores34",
+            "request": "launch",
+            "mainClass": "Operadores34",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores40",
+            "request": "launch",
+            "mainClass": "Operadores40",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores41",
+            "request": "launch",
+            "mainClass": "Operadores41",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores42",
+            "request": "launch",
+            "mainClass": "Operadores42",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores43",
+            "request": "launch",
+            "mainClass": "Operadores43",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores44",
+            "request": "launch",
+            "mainClass": "Operadores44",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores45",
+            "request": "launch",
+            "mainClass": "Operadores45",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores46",
+            "request": "launch",
+            "mainClass": "Operadores46",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores47",
+            "request": "launch",
+            "mainClass": "Operadores47",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores50",
+            "request": "launch",
+            "mainClass": "Operadores50",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores51",
+            "request": "launch",
+            "mainClass": "Operadores51",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores52",
+            "request": "launch",
+            "mainClass": "Operadores52",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores53",
+            "request": "launch",
+            "mainClass": "Operadores53",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores60",
+            "request": "launch",
+            "mainClass": "Operadores60",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores61",
+            "request": "launch",
+            "mainClass": "Operadores61",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores62",
+            "request": "launch",
+            "mainClass": "Operadores62",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores63",
+            "request": "launch",
+            "mainClass": "Operadores63",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores64",
+            "request": "launch",
+            "mainClass": "Operadores64",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores65",
+            "request": "launch",
+            "mainClass": "Operadores65",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores66",
+            "request": "launch",
+            "mainClass": "Operadores66",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores67",
+            "request": "launch",
+            "mainClass": "Operadores67",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores68",
+            "request": "launch",
+            "mainClass": "Operadores68",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores70",
+            "request": "launch",
+            "mainClass": "Operadores70",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores71",
+            "request": "launch",
+            "mainClass": "Operadores71",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores72",
+            "request": "launch",
+            "mainClass": "Operadores72",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "Operadores73",
+            "request": "launch",
+            "mainClass": "Operadores73",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "TerminaldeArgumentos20",
+            "request": "launch",
+            "mainClass": "TerminaldeArgumentos20",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "TerminaldeArgumentos30",
+            "request": "launch",
+            "mainClass": "TerminaldeArgumentos30",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "TerminaldeArgumentos40",
+            "request": "launch",
+            "mainClass": "TerminaldeArgumentos40",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "TiposeVariaveis30",
+            "request": "launch",
+            "mainClass": "TiposeVariaveis30",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
+            "type": "java",
+            "name": "TiposeVariaveis40",
+            "request": "launch",
+            "mainClass": "TiposeVariaveis40",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+            "args": [
+                   "MAURICIO",
+                   "VITALI",
+                   "33",
+                   "1.81"
+                   ]
+        }
+}
